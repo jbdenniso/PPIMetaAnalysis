@@ -8,10 +8,15 @@ This is a jupyter notebook containing the code used to perform the cooridnate ba
 ## Sleuth files
 This folder contains the sleuth files used in the CBMA the files are named
 Seed_construct.txt
-Seeds may be STR, PFC, or bot
-Constructs may be Ant (anticipation), Cons (consumption), learn (Learning), Value (valuation)
-or Pre (anticipation + valuation), Post (Consumption + Learning)
-or Dec (Valuation + Learning) Nodec (anticipation + Consumption)
+
+  Seeds may be STR, PFC, or both
+
+
+  Constructs may be Ant (anticipation), Cons (consumption), learn (Learning), Value (valuation)
+  or Pre (anticipation + valuation), Post (Consumption + Learning)
+  or Dec (Valuation + Learning) Nodec (anticipation + Consumption)
+  
+  Sleuthfiles named STR_seed.txt and PFC_seed.txt contain the coordinates for the meta seeds.
 
 ## The CBMA_info.xlsx is a spreadsheet containing raw data recorded from the publication search and recording.
 There are 5 main sheets:
