@@ -1,0 +1,96 @@
+//Reference= MNI 
+//Kim- 2018:mpfc- Learning
+//Subjects= 17
+34    27    -1
+-35    26    -4
+
+//Reference= MNI 
+//Leong- 2018:vmpfc- Learning
+//Subjects= 25
+-2    59    3
+
+//Reference= MNI 
+//Behan- 2015:LIFG- ant+cons
+//Subjects= 20
+41    15    15
+
+//Reference= MNI 
+//Park- 2012:- learning
+//Subjects= 28
+3    54    -15
+
+//Reference= MNI 
+//Deikof- 2012:vmpfc- learning
+//Subjects= 19
+0    24    -9
+
+//Reference= MNI 
+//Smith- 2014:vmpfc- valuation
+//Subjects= 20
+6    26    -14
+
+//Reference= MNI 
+//Cao- 2019:vmpfc- consumption
+//Subjects= 1510
+-3    41    7
+3    41    7
+
+//Reference= MNI 
+//Dore- 2016:vmpfc- consumption
+//Subjects= 20
+0    46    -6
+
+//Reference= MNI 
+//Erdeniz- 2019:vmpfc-dlpfc- learning
+//Subjects= 19
+-42    29    19
+42    32    19
+12    47    -5
+
+//Reference= MNI 
+//Pornpattananangkul- 2018:vmPFC-value
+//Subjects= 17
+3    57    -6
+
+//Reference= MNI 
+//Geurts;vmPFC-valuation
+//Subjects= 75
+-8    36    -8
+
+//Reference=MNI
+//Schlagenhauf- 2009: Consumption
+//Subjects=15
+
+0    12    -6
+
+//Reference=MNI
+//Hare-2010: Valuation
+//Subjects=22
+-12    42    -15
+
+//Reference=MNI
+//Jian-2010:DLPFC Learning
+//Subjects=20
+-48    24    33
+
+//Reference=MNI
+//Lim-2011:vmpfc value
+//Subjects=20
+-6    18    -10
+
+//Reference=MNI
+//Tingyong-2013:mpfc value-tscore
+//Subjects=16
+-6    -4    55
+
+//Reference=MNI
+//Zhan-2018:mpfc value-tscore
+//Subjects=18
+6    57    9
+3    48    -15
+9    42    -6
+
+//Reference=MNI
+//Crockett- 2017: Valuation
+//Subjects=28
+-54    -58    22
