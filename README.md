@@ -4,7 +4,9 @@ A Meta-analysis of Psychophysiological Interactions".
 
 ## PPI-ALE.ipynb
 This is a jupyter notebook containing the code used to perform the cooridnate based meta analysis
-To view the interactive stat maps see (https://nbviewer.org/github/jbdenniso/PPIMetaAnalysis/blob/main/PPI-ALE%20%28Consistency%29.ipynb)
+To view the interactive stat maps see the following links
+[Notebook for Consistency](https://nbviewer.org/github/jbdenniso/PPIMetaAnalysis/blob/main/PPI-ALE%20%28Consistency%29.ipynb)
+[Notebook for Subtractions](https://nbviewer.org/github/jbdenniso/PPIMetaAnalysis/blob/main/PPI-ALE%20%28Subtraction%20and%20Conjunction%29.ipynb)
 
 ## Sleuth files
 This folder contains the sleuth files used in the CBMA the files are named
